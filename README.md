@@ -33,6 +33,8 @@ These are explanations of **potential impact within the recorded map**. A path i
 
 ## Current state and direction
 
+Read the [CAUSYN engine blueprint](docs/engine/README.md) for the proposed data contract, traversal algorithm, host boundaries, and milestone acceptance tests.
+
 The engine is the next milestone. Today the repository contains a [.NET 10 API starter](Causyn.Api/Program.cs) and [resource identifier tests](Causyn.Tests/ResourceIdRulesTests.cs). The identifier rule currently lives in the test project. There is no callable impact engine, import endpoint, database integration, or browser UI yet.
 
 1. **Prove the core in memory.** Validate one map and reproduce the payment-provider example from a plain .NET caller. Check cycles, optional edges, missing targets, and result limits.
