@@ -1,9 +1,9 @@
-﻿using RippleMap.Tests.Domain;
+using Causyn.Tests.Domain;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace RippleMap.Tests;
+namespace Causyn.Tests;
 
 public class ResourceIdRulesTests
 {

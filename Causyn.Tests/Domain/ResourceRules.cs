@@ -1,6 +1,6 @@
-﻿using System.Text.RegularExpressions;
+using System.Text.RegularExpressions;
 
-namespace RippleMap.Tests.Domain;
+namespace Causyn.Tests.Domain;
 
 public static class ResourceIdRules
 {

@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="RippleMap.Api/RippleMap.Api.csproj" />
-  <Project Path="RippleMap.Tests/RippleMap.Tests.csproj" />
-</Solution>

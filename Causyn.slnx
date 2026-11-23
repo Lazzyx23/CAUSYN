@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Causyn.Api/Causyn.Api.csproj" />
+  <Project Path="Causyn.Tests/Causyn.Tests.csproj" />
+</Solution>
